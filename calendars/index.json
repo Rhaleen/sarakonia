@@ -1,17 +1,17 @@
 {
   "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/refs/heads/main/shared/schemas/calendar-collection-v1.0.0.json",
-  "name": "Sarakonian Calender",
-  "description": "The Sarakonian Calendar",
+  "name": "Calendar of the Uhr Pack",
+  "description": "The calendar of the Uhr - a tri-lunar calendar",
   "version": "0.1.0",
   "calendars": [
     {
-      "id": "sarakonian-calender",
-      "name": "Sarakonian Calender",
-      "description": "soon",
-      "file": "SarakonianCalender.json",
-      "preview": "",
+      "id": "calendar-of-uhr",
+      "name": "Calendar of the Uhr",
+      "description": "A calendar based on tri-lunar cycles",
+      "file": "uhr.json",
+      "preview": "39th of Everbloom, 544 MT",
       "tags": ["fantasy", "homebrew", "lunar"],
-      "author": "Rhaleen"
+      "author": "Aiquen"
     }
   ]
 }
