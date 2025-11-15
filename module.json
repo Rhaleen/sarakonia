@@ -1,0 +1,36 @@
+{
+  "id": "sarakonian-calendar",
+  "title": "Seasons & Stars - Sarakonian Calendar",
+  "description": "asdf",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Rhaleen",
+      "email": "a",
+      "discord": "a",
+      "github": "a"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "seasons-and-stars",
+        "type": "module",
+	"manifest": "https://github.com/rayners/fvtt-seasons-and-stars/releases/latest/download/module.json",
+        "compatibility": {
+          "minimum": "0.13.0"
+        }
+      }
+    ]
+  },
+  "url": "https://github.com/Rhaleen/sarakonian-calender",
+  "manifest": "https://github.com/Rhaleen/sarakonian-calender/releases/download/pathfinder/module.json",
+  "download": "https://github.com/Rhaleen/sarakonian-calender/releases/download/pathfinder/module.zip",
+  "readme": "https://raw.githubusercontent.com/Rhaleen/sarakonian-calender/refs/heads/main/README.md",
+  "license": "https://raw.githubusercontent.com/Rhaleen/sarakonian-calender/refs/heads/main/LICENSE",
+  "bugs": "https://github.com/Rhaleen/sarakonian-calender/issues"
+}
