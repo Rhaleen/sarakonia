@@ -27,10 +27,10 @@
       }
     ]
   },
-  "url": "https://github.com/Rhaleen/sarakonian-calender",
-  "manifest": "https://github.com/Rhaleen/sarakonian-calender/releases/download/pathfinder/module.json",
-  "download": "https://github.com/Rhaleen/sarakonian-calender/releases/download/pathfinder/module.zip",
-  "readme": "https://raw.githubusercontent.com/Rhaleen/sarakonian-calender/refs/heads/main/README.md",
-  "license": "https://raw.githubusercontent.com/Rhaleen/sarakonian-calender/refs/heads/main/LICENSE",
-  "bugs": "https://github.com/Rhaleen/sarakonian-calender/issues"
+  "url": "https://github.com/Rhaleen/sarakonia",
+  "manifest": "https://github.com/Rhaleen/sarakonia/releases/download/pathfinder/module.json",
+  "download": "https://github.com/Rhaleen/sarakonia/releases/download/pathfinder/module.zip",
+  "readme": "https://raw.githubusercontent.com/Rhaleen/sarakonia/refs/heads/main/README.md",
+  "license": "https://raw.githubusercontent.com/Rhaleen/sarakonia/refs/heads/main/LICENSE",
+  "bugs": "https://github.com/Rhaleen/sarakonia/issues"
 }
