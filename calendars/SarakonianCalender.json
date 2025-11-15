@@ -14,8 +14,8 @@
   "year": {
     "epoch": 0,
     "currentYear": 706,
-    "prefix": "",
-    "suffix": " a.S.",
+    "prefix": "bS",
+    "suffix": " aS",
     "startDay": 1
   },
   "months": [
@@ -250,5 +250,6 @@
     "secondsInMinute": 60
   }
 }
+
 
 
