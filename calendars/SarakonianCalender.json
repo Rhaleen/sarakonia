@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/rayners/fvtt-seasons-and-stars/refs/heads/main/shared/schemas/calendar-v1.0.0.json",
   "id": "sarakonian",
   "translations": {
     "en": {
@@ -249,4 +250,5 @@
     "secondsInMinute": 60
   }
 }
+
 
